@@ -4,6 +4,8 @@ Exploration Notebook - Kickstarter
 - Introduction 
 In this notebook, I'll try to explore the characteristics of Kickstarter projects. Before we dive deep into the data, let us know a little more about Kickstarter.
 
+This Kickstarter dataset is available [here](https://drive.google.com/open?id=1Q0bxHVsNlUOU5suxGj2MULeUzPCbJYmh).
+
 What is Kickstarter?
 
 Kickstarter PBC is a funding platform for creative projects. Everything from films, games, and music to art, design, and technology. Kickstarter is full of ambitious, innovative, and imaginative ideas that are brought to life through the direct support of others.
